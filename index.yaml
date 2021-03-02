@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-02T12:34:52.139758733Z"
+    description: A Helm chart for Kubernetes
+    digest: 67353da21fd3843a49dc973f4ae81af1eb9e9c1236791aca61faf07626a25dab
+    name: javawebapp
+    type: application
+    urls:
+    - https://nithindevopsmt.github.io/bhumihelmchart/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-02T12:34:52.137991524Z"
